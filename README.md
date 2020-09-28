@@ -1,6 +1,5 @@
-# CS534 Assignment 3 Part 3
+# robotic truck project
 Yichun Tang
-Yuzhi Ji
 
 ### Instruction for compiling:
 \
